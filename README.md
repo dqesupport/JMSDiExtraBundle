@@ -11,3 +11,9 @@ Code License:
 
 Documentation License:
 [Resources/doc/LICENSE](https://github.com/schmittjoh/JMSDiExtraBundle/blob/master/Resources/doc/LICENSE)
+
+## Installation
+
+```
+composer require dqe/di-extra-bundle
+```
